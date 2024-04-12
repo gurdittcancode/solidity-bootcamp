@@ -1,0 +1,7 @@
+We have written a contract that,
+
+1. lets admin put courseFee on deployment
+2. gives user a public function to make payment and send the courseFee
+3. an event that will be emitted
+4. user can track their payments
+5. route to get all payments
